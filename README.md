@@ -2,5 +2,5 @@
  
 Estou a aprendendo a criar sites e a gerenciar repositorios!
 
-Vai se foder kaue
+eu te amo isabella gode
 
