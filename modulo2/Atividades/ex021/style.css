@@ -1,0 +1,74 @@
+@charset "utf-8" ;
+
+@font-face {
+    font-family: 'god';
+    src: url(GODOFWAR.TTF);
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(128, 128, 128, 0.863);
+    margin: 0px;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: -16px;
+}
+article{
+    background-color: rgba(197, 196, 196, 0.938);   
+    padding: 10px; 
+    margin-right: 10px;
+    border-radius: 10px;
+    
+}
+article > aside{
+    background-color: rgba(172, 172, 172, 0.938);
+}
+nav{
+    background-color: rgb(126, 126, 126);
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.411);
+    border-radius: 2px;
+}
+nav>a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 40px;
+}
+nav > a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#assuntos{
+    background-color: rgba(197, 196, 196, 0.938);
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+#skate{
+    padding: 5px;
+}
+h1{
+    box-shadow: 
+     2px 1px 14px 6px rgba(0, 0, 0, 0.61);
+    font-family: 'god';
+    border-radius: 2px;
+}

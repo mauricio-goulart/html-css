@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+
+/*HTML --> ID     CSS --> #
+  CSS  --> CLASS  CSS --> .
+*/
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color:#9EC8E8 ;
+    color: #0091ff;
+
+}
+p{
+    color: black;
+}
+
+.html{
+    color: red;
+}
+
+h1#topo{
+    color: white;
+    background-color: black;
+}

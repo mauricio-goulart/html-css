@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /*
+        : - pseudo-class
+        :: - pseudo-element
+        > - filho
+        
+        */
+
+
+
+
+
+
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a{
+            color: blue;
+            /*tira a linhazinha do link*/
+            text-decoration: none;
+        }
+         /*se ja visitou o site fica vermelho*/
+        a:visited{
+            color: red;
+        }
+        a:hover{
+            /*deixa a linhazinha quando passa o mouse em cima*/
+            text-decoration: underline;
+            color: black;
+        }
+        a:active{
+            color: violet;
+            /*muda de cor quando segura o mouse em cima*/
+        }
+        
+        a::before{
+            content: '->';
+            color: black;
+        }
+        
+        a::after{
+            content: '<-';
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=M6eENvDRNd0&ab_channel=ThrasherMagazine" target="_blank">Pedro Barros</a></li>
+        <li><a href="https://www.youtube.com/watch?v=BmX9kwHKLyg&ab_channel=ThrasherMagazine" target="_blank">Luan Oliveira</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Ri_hxnXQQQU&ab_channel=ThrasherMagazine" target="_blank">Yuri Fachinni</a></li>
+    </ul>
+</body>
+</html>
