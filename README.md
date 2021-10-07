@@ -1,7 +1,7 @@
 # html-css
- <link rel="shortcut icon" href="icone.ico" type="image/x-icon">
+
  
-Estou a aprendendo a criar sites e a gerenciar repositorios!
+ Estou a aprendendo a criar sites e a gerenciar repositorios!
 
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
 
