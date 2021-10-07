@@ -3,7 +3,9 @@
         body{
                 background-color:black
         }
-        
+        a{
+                color:white
+        }
 </style>
 
 <body> 
