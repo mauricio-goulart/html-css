@@ -1,5 +1,12 @@
 # html-css
-<body style="background-color:black;"> 
+<style>
+        body{
+                background-color:black
+        }
+        
+</style>
+
+<body> 
 Estou a aprendendo a criar sites e a gerenciar repositorios!
 
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
