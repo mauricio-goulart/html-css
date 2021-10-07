@@ -1,24 +1,13 @@
-<p># html-css</p>
-<style>
-        body{
-                background-color:black
-        }
-        a{
-                color:white
-        }
-        p{
-                color:white
-        }
-</style>
+# html-css
 
-<body> 
-<p>Estou a aprendendo a criar sites e a gerenciar repositorios!</p>
+ 
+Estou a aprendendo a criar sites e a gerenciar repositorios!
 
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
 
-<p>Lista de Exercicios</p>
+Lista de Exercicios
 
-<p>Modulo 01</p>
+Modulo 01
 
  <ul>              
         <li><a href="https://mauricio-goulart.github.io/html-css/modulo1/Atividades/ex001/index.html" target="_blank" rel="external">Exercício 001</a></li>
