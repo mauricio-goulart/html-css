@@ -16,9 +16,9 @@
 
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
 
-Lista de Exercicios
+<p>Lista de Exercicios</p>
 
-    Modulo 01
+<p>Modulo 01</p>
 
  <ul>              
         <li><a href="https://mauricio-goulart.github.io/html-css/modulo1/Atividades/ex001/index.html" target="_blank" rel="external">Exercício 001</a></li>
