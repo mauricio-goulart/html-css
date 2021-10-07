@@ -1,11 +1,7 @@
 # html-css
- 
+<body style="background-color:black;"> 
 Estou a aprendendo a criar sites e a gerenciar repositorios!
-<style>
-       *{
-        background-color:#D2D8D9;
-       } 
-</style>
+
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
 
 Lista de Exercicios
@@ -16,5 +12,6 @@ Lista de Exercicios
         <li><a href="https://mauricio-goulart.github.io/html-css/modulo1/Atividades/ex001/index.html" target="_blank" rel="external">Exercício 001</a></li>
         <li><a href="https://mauricio-goulart.github.io/html-css/modulo1/Atividades/ex002/index.html" target="_blank" rel="external">Exercício 002</a></li>
 </ul>
+</body>
 
 
