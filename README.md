@@ -1,7 +1,11 @@
 # html-css
  
 Estou a aprendendo a criar sites e a gerenciar repositorios!
-
+<style>
+       *{
+        background-color:#D2D8D9;
+       } 
+</style>
 <a href="https://mauricio-goulart.github.io/html-css/" target="_blank" rel="external">Menu</a>
 
 Lista de Exercicios
