@@ -6,6 +6,9 @@
         a{
                 color:white
         }
+        p{
+                color:white
+        }
 </style>
 
 <body> 
